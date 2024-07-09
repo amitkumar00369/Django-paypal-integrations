@@ -1,0 +1,5 @@
+django_paypal_integrations/__pycache__
+django_paypal_integrations/migrations
+env
+db.sqlite3
+paypal/__pycache__
